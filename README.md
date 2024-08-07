@@ -38,7 +38,8 @@ This directory contains the Flask-based web application. Users can upload videos
 
 
 ### 3. System Architecture
-The system architecture consists of a feature extraction pipeline followed by an LSTM model for video classification. The Flask application provides a user-friendly interface for uploading videos and viewing results.
+
+![system architecture](https://github.com/user-attachments/assets/91402a17-1b81-4821-be1b-70fd3abb884b)
 
 ### 4. My Project Demo
 
