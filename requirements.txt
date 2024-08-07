@@ -1,0 +1,9 @@
+numpy
+face_recognition
+pandas
+matplotlib
+torch
+flask
+opencv-python
+torchvision
+Gunicorn
