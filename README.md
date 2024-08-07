@@ -41,7 +41,8 @@ This directory contains the Flask-based web application. Users can upload videos
 The system architecture consists of a feature extraction pipeline followed by an LSTM model for video classification. The Flask application provides a user-friendly interface for uploading videos and viewing results.
 
 ### 4. My Project Demo
- ()
+
+Uploading InShot_20240807_234653070.mp4…
 
 ### 5. Results
 The results of this model are summarized below. The metrics provide insights into the performance of the LSTM-based fake video classification system.
