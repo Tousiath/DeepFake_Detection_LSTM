@@ -42,7 +42,7 @@ The system architecture consists of a feature extraction pipeline followed by an
 
 ### 4. My Project Demo
 
-https://github.com/user-attachments/assets/a2e5f766-ba7b-490f-885a-40155beaf3de
+https://github.com/user-attachments/assets/33722a89-effa-4fec-8710-14708f2940c7
 
 ### 5. Results
 The results of this model are summarized below. The metrics provide insights into the performance of the LSTM-based fake video classification system.
