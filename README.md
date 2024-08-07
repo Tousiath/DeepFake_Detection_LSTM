@@ -30,7 +30,7 @@ This directory contains Jupyter notebooks used for preprocessing the data, makin
 
 
 **Model**  
-The trained LSTM model is saved in this directory as `trained_model6.pt`. The model can be found at this [link](https://drive.google.com/file/d/1ycyQwouJkzc7FRlCR_QbheJZvZgPI_7O/view?usp=sharing).
+The trained LSTM model is saved as `trained_model6.pt`. The model can be found at this [link](https://drive.google.com/file/d/1ycyQwouJkzc7FRlCR_QbheJZvZgPI_7O/view?usp=sharing).
 
 
 **Flask Application**  
@@ -43,7 +43,7 @@ It includes the files for Flask-based web application. Users can upload videos, 
 
 ### 4. My Project Demo
 
-https://github.com/user-attachments/assets/33722a89-effa-4fec-8710-14708f2940c7
+https://github.com/user-attachments/assets/69c47d93-d1fe-4534-9b61-35625989dbe8
 
 ### 5. Results
 The results of this model are summarized below. The metrics provide insights into the performance of the LSTM-based fake video classification system.
