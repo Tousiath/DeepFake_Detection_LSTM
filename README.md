@@ -43,7 +43,7 @@ It includes the files for Flask-based web application. Users can upload videos, 
 
 ### 4. My Project Demo
 
-https://github.com/user-attachments/assets/69c47d93-d1fe-4534-9b61-35625989dbe8
+https://github.com/user-attachments/assets/64b6205d-bd8d-4abc-87bc-aac5c3fd982b
 
 ### 5. Results
 The results of this model are summarized below. The metrics provide insights into the performance of the LSTM-based fake video classification system.
