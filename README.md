@@ -3,8 +3,8 @@
 ### 1. Introduction
 The Fake Video Classification project utilizes a Long Short-Term Memory (LSTM) algorithm to detect and classify deepfake videos. By analyzing the temporal patterns in video frames, the model can distinguish between genuine and manipulated content. This project also features a user-friendly website built with Flask, allowing users to easily upload and classify videos in real-time.
 
-### 2. Directory Structure
-For easier navigation, the project is organized as follows:
+### 2. Structure
+The project is organized as follows:
 
 ```text
 Fake_Video_Classification
@@ -34,7 +34,7 @@ The trained LSTM model is saved in this directory as `trained_model6.pt`. The mo
 
 
 **Flask Application**  
-This directory contains the Flask-based web application. Users can upload videos, which are then processed by the LSTM model to classify them as real or fake, with results displayed on the web interface.
+It includes the files for Flask-based web application. Users can upload videos, which are then processed by the LSTM model to classify them as real or fake, with results displayed on the web interface.
 
 
 ### 3. System Architecture
